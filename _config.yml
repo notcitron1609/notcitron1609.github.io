@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: sample title
-description: not a sample title
+title: "sample title"
+description: "not a sample title"
+encoding: UTF-8
